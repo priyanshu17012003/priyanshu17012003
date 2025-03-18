@@ -6,6 +6,7 @@ I'm passionate about web development and always eager to learn more.
 ## 🌱 Currently Learning
 - Node.js
 - Express.js
+- Django
 
 ## 🛠️ Tech Stack
 - **MERN Stack**: ![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-black?style=flat&logo=mern&logoColor=white)
